@@ -1,0 +1,4 @@
+__pycache*
+.DS_store
+.vscode*
+*.txt
